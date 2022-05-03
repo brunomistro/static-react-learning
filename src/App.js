@@ -10,7 +10,7 @@ function App() {
     })();
   });
 
-  return <div>leleu</div>;
+  return <div>{data}</div>;
 }
 
 export default App;
